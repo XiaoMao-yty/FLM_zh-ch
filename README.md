@@ -1,4 +1,4 @@
-# FL Studio Mobile 汉化美化（小猫版）
+# FL Studio Mobile 汉化美化
 
 FL Studio Mobile 全面汉化 + 桌宠 + 马卡龙主题 + 赞赏弹窗，含防破解保护。
 
@@ -74,7 +74,7 @@ FL Studio Mobile 全面汉化 + 桌宠 + 马卡龙主题 + 赞赏弹窗，含防
 
 ## 📋 版本信息
 
-- 基于：FL Studio Mobile 4.10.17 (3070234)
+- 基于：FL Studio Mobile 4.10.19 (3070236)
 - 架构：arm64-v8a
 - 包名：com.imageline.FLM
 - 签名：官方小猫签名（重打包会触发防破解保护）
@@ -88,4 +88,4 @@ FL Studio Mobile 全面汉化 + 桌宠 + 马卡龙主题 + 赞赏弹窗，含防
 
 ## 💖 支持
 
-如果喜欢这个版本，欢迎访问小猫官网 https://www.xiaomao.online/ 支持开发者！
+如果喜欢这个版本，欢迎访问官网 https://www.xiaomao.online/ 支持开发者！
